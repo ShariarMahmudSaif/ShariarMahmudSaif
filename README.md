@@ -1,6 +1,6 @@
 <!-- 🌟 Neon Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Welcome+to+My+Digital+Dashboard;Crafting+Interfaces+with+Precision;Engineering+Scalable+Systems;Available+for+Commissions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Welcome+to+My+Digital+Dashboard;Crafting+Interfaces+with+Precision;Engineering+Scalable+Systems;Available+for+Commissions" alt="Typing SVG" />
 </p>
 
 <h1 align="center" style="color:#00FFFF;">Shariar Mahmud Saif</h1>
