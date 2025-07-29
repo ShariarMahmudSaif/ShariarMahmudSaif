@@ -87,15 +87,15 @@
   <tr>
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30"/><br/>
-      <a href="https://facebook.com/yourprofile" style="color:#D1D5DB;">Facebook</a>
+      <a href="https://facebook.com/Ignacio.hyper" style="color:#D1D5DB;">Facebook</a>
     </td>
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30"/><br/>
-      <a href="https://instagram.com/yourprofile" style="color:#D1D5DB;">Instagram</a>
+      <a href="https://www.instagram.com/shariarmahmudsaif/" style="color:#D1D5DB;">Instagram</a>
     </td>
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="30"/><br/>
-      <span style="color:#D1D5DB;">Discord: yourtag#1234</span>
+      <a href="https://discord.gg/wP8v2ZTkWF" style="color:#D1D5DB;">Discord: mr.hyper</a>
     </td>
   </tr>
 </table>
