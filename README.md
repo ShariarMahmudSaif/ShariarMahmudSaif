@@ -47,6 +47,10 @@
 
 <table align="center">
   <tr>
+    <td><strong>🗂️ Project Stylesync</strong></td>
+    <td>Modular file navigation using Html + CSS + Tailwind</td>
+  </tr>
+  <tr>
     <td><strong>🗂️ File Explorer Web</strong></td>
     <td>Modular file navigation using Node.js + Tailwind</td>
   </tr>
