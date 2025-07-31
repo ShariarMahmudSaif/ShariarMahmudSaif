@@ -47,7 +47,7 @@
 
 <table align="center">
   <tr>
-    <td><strong>🗂️ Project Stylesync</strong></td>
+    <td><strong>💀 Project Stylesync</strong></td>
     <td>Modular file navigation using Html + CSS + Tailwind</td>
   </tr>
   <tr>
