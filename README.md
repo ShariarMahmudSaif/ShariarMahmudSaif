@@ -47,6 +47,10 @@
 
 <table align="center">
   <tr>
+    <td><strong>Zensai-E-Commerce-Web-Project</strong></td>
+    <td>Modular Next.Js + CSS + Typescript + Prisma</td>
+  </tr>
+  <tr>
     <td><strong>💀 Project Stylesync</strong></td>
     <td>Modular file navigation using Html + CSS + Tailwind</td>
   </tr>
